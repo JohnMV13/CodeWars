@@ -14,3 +14,15 @@ Patrick Feeney => P.F
 www.codewars.com/kata/abbreviate-a-two-word-name
 
 Ben and I started out by going to the kata to find out what the problem entailed. Then he and I went to whiteboarding our solutions to the problem. We knew that we had to get the first letters of both names away from the rest of their names and get them to be two separate strings, so we looked in our books and found a string function that would make the one string into two separate strings. that function was .split(' '). this function got rid of the space between the first name and the last name. After that, we needed to find a string function to get the first letters from those two strings. The function we found for that was .charAt(0). With this function, we were able to grab the first letters from the strings and were about ready to finish up the whole function. As we were testing this out, we realized that the function was not turning the letters from the function into capitol letters. Due to that, we needed the function .toUpperCase to make sure those letters became upper case. With that, our function was complete and it was able to pass all of the tests in this problem.
+
+Day 2
+
+You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
+
+Save the animals by switching them back. You will be given an array which will have three values (tail, body, head). It is your job to re-arrange the array so that the animal is the right way round (head, body, tail).
+
+Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
+
+https://www.codewars.com/kata/my-head-is-at-the-wrong-end
+
+Taylor and I started by looking at the problem to see what we were dealing with. Once we saw the problem, we went to the whiteboard to figure out what we needed to do. We found out that we needed to make an array for the meerkats and then needed to make a function to reverse the array. After doing that, we went to code wars and put in our answer and it worked. 
