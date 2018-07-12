@@ -26,3 +26,11 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 https://www.codewars.com/kata/my-head-is-at-the-wrong-end
 
 Taylor and I started by looking at the problem to see what we were dealing with. Once we saw the problem, we went to the whiteboard to figure out what we needed to do. We found out that we needed to make an array for the meerkats and then needed to make a function to reverse the array. After doing that, we went to code wars and put in our answer and it worked. 
+
+CodeWars Day 3
+
+Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+
+https://www.codewars.com/kata/insert-dashes/train/javascript
+
+Craig and I went to code wars to look at the problem. After looking at it, we went to the whiteboard to figure out our plan for the problem. We figured that we would have to turn the array into a stringthat way we could get each number individually so we could get the function to find two odd numbers that were next to each other. After that, we went back to code wars to put our answers together.
