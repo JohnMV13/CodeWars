@@ -57,3 +57,17 @@ ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything 
 If the function is passed a valid PIN string, return true, else return false.
 
 First, Nathan and I went to code wars to look at the problem. Next we went to the whiteboard to write out our problem. We figured that we needed to regex only numbers that had either only 4 or 6 digits in it. We went back to code wars and tried putting in our solution.
+
+Code War Day 5 pt 2
+
+Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. Index 0 will be considered even.
+
+For example, capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. See test cases for more examples.
+
+The input will be a lowercase string with no spaces.
+
+Good luck!
+
+https://www.codewars.com/kata/alternate-capitalization/train/javascript
+
+Nathan and I started out by checking the Code war. After looking at it we went to white board the problem. We decided that we needed to split the string, find a way to get the letters to alternate between capital and lowercase letters. After that, we went to put in the solution.
