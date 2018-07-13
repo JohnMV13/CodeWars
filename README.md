@@ -47,3 +47,13 @@ Length should be between 4 and 16 characters (both included).
 https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/javascript
 
 Dylan and I started by going to code wars to see the problem. We then went to start whiteboarding our solution. We figured that we needed a way to test to see if the user names were all hitting the lowercase check, the numbers check and the under score check and if it hit all those checks, it would return true. Then we went to code wars to put in our answer.
+
+CodeWars Day 5 part 1
+
+https://www.codewars.com/kata/regex-validate-pin-code/train/javascript
+
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+
+If the function is passed a valid PIN string, return true, else return false.
+
+First, Nathan and I went to code wars to look at the problem. Next we went to the whiteboard to write out our problem. We figured that we needed to regex only numbers that had either only 4 or 6 digits in it. We went back to code wars and tried putting in our solution.
