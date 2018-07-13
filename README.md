@@ -34,3 +34,16 @@ Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-
 https://www.codewars.com/kata/insert-dashes/train/javascript
 
 Craig and I went to code wars to look at the problem. After looking at it, we went to the whiteboard to figure out our plan for the problem. We figured that we would have to turn the array into a stringthat way we could get each number individually so we could get the function to find two odd numbers that were next to each other. After that, we went back to code wars to put our answers together.
+
+CodeWars Day 4
+
+Write a simple regex to validate a username. Allowed characters are:
+
+lowercase letters,
+numbers,
+underscore
+Length should be between 4 and 16 characters (both included).
+
+https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/javascript
+
+Dylan and I started by going to code wars to see the problem. We then went to start whiteboarding our solution. We figured that we needed a way to test to see if the user names were all hitting the lowercase check, the numbers check and the under score check and if it hit all those checks, it would return true. Then we went to code wars to put in our answer.
