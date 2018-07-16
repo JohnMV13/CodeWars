@@ -71,3 +71,21 @@ Good luck!
 https://www.codewars.com/kata/alternate-capitalization/train/javascript
 
 Nathan and I started out by checking the Code war. After looking at it we went to white board the problem. We decided that we needed to split the string, find a way to get the letters to alternate between capital and lowercase letters. After that, we went to put in the solution.
+
+Code Wars Day 6
+
+A Nice array is defined to be an array where for every value n in the array, there is also an element n-1 or n+1 in the array.
+
+example:
+
+[2,10,9,3] is Nice array because
+
+2=3-1
+10=9+1
+3=2+1
+9=10-1
+Write a function named isNice/IsNice that returns true if its array argument is a Nice array, else false. You should also return false if input array has no elements.
+
+https://www.codewars.com/kata/nice-array/train/javascript
+
+Marc and I started by going to CodeWars to checkout the problem. After that, we went to start white boarding. What we had to do was loop through each element of the array. After that we needed to check to see if there were anymore elements in the array. If there were, then we would go to the next element in i. If not then we would result the array as false. After going to element i, we needed to loop through element j. While there, we needed to check to see if there were any elements in j that were + or - 1 from element i. If there was, then we would loop back up to i and redo the entire loop with the next element in i. If not, we would return the array as false. Once we looped through all of i and everything checked out, it would return the array as true. Once we had that all figured out, we went back to code wars and put in our answer.
