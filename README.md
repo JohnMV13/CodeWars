@@ -89,3 +89,19 @@ Write a function named isNice/IsNice that returns true if its array argument is 
 https://www.codewars.com/kata/nice-array/train/javascript
 
 Marc and I started by going to CodeWars to checkout the problem. After that, we went to start white boarding. What we had to do was loop through each element of the array. After that we needed to check to see if there were anymore elements in the array. If there were, then we would go to the next element in i. If not then we would result the array as false. After going to element i, we needed to loop through element j. While there, we needed to check to see if there were any elements in j that were + or - 1 from element i. If there was, then we would loop back up to i and redo the entire loop with the next element in i. If not, we would return the array as false. Once we looped through all of i and everything checked out, it would return the array as true. Once we had that all figured out, we went back to code wars and put in our answer.
+
+CodeWars Day 7
+
+https://www.codewars.com/kata/disemvowel-trolls/train/javascript
+
+Trolls are attacking your comment section!
+
+A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
+
+Your task is to write a function that takes a string and return a new string with all vowels removed.
+
+For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
+
+Note: for this kata y isn't considered a vowel.
+
+First, Craig and I started by going to code wars to look at the problem for today. After looking over the problem, we went to whiteboard our thoughts to the solution. We figured that we had to do regex to remove the vowels from the string and then put the string back without the vowels. After that, we went back to code wars to put in our answers.
