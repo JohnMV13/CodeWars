@@ -105,3 +105,23 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 Note: for this kata y isn't considered a vowel.
 
 First, Craig and I started by going to code wars to look at the problem for today. After looking over the problem, we went to whiteboard our thoughts to the solution. We figured that we had to do regex to remove the vowels from the string and then put the string back without the vowels. After that, we went back to code wars to put in our answers.
+
+Code Wars Day 8
+
+https://www.codewars.com/kata/find-the-middle-element/train/javascript
+
+As a part of this Kata, you need to create a function that when provided with a triplet, returns the index of the numerical element that lies between the other two elements.
+
+The input to the function will be an array of three distinct numbers (Haskell: a tuple).
+
+For example:
+
+gimme([2, 3, 1]) => 0
+2 is the number that fits between 1 and 3 and the index of 2 in the input array is 0.
+
+Another example (just to make sure it is clear):
+
+gimme([5, 10, 14]) => 1
+10 is the number that fits between 5 and 14 and the index of 10 in the input array is 1.
+
+First, Ethan and I started by going to code wars to see the problem. After thet, We went to the whiteboard to figure out our answer. We decided that we needed to do a few if statements and then return the result as our answer. After figuring that out, we went back to codewars to put in the solution.
