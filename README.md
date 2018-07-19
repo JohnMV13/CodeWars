@@ -125,3 +125,13 @@ gimme([5, 10, 14]) => 1
 10 is the number that fits between 5 and 14 and the index of 10 in the input array is 1.
 
 First, Ethan and I started by going to code wars to see the problem. After thet, We went to the whiteboard to figure out our answer. We decided that we needed to do a few if statements and then return the result as our answer. After figuring that out, we went back to codewars to put in the solution.
+
+Code Wars Day 9
+
+https://www.codewars.com/kata/reversed-strings/train/javascript
+
+Complete the solution so that it reverses the string value passed into it.
+
+solution('world'); // returns 'dlrow'
+
+First, Taylor and I went to Code Wars to look at the problem. AAfter that, we went to the whiteboard to write down our solution. We figured that we needed to split the string into individual letters, reverse the string and then join them back together. Then we went back to code wars to put in our solution.
