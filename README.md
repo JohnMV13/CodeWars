@@ -135,3 +135,42 @@ Complete the solution so that it reverses the string value passed into it.
 solution('world'); // returns 'dlrow'
 
 First, Taylor and I went to Code Wars to look at the problem. AAfter that, we went to the whiteboard to write down our solution. We figured that we needed to split the string into individual letters, reverse the string and then join them back together. Then we went back to code wars to put in our solution.
+
+Code Wars Day 10
+
+https://www.codewars.com/kata/use-map-to-double-the-values-in-an-array/train/javascript
+
+Make the double() function return a new array with each value twice as large as the corresponding value in the passed in array. Your solution must use the map() function of the built-in javascript Array object. If you're not familiar with map(), reading over the documentation may help.
+
+function double(array) {
+    // Use array.map() to return a new array with each value twice
+    // as large as the corresponding value in the passed in array.
+}
+For example:
+
+var someNumbers = [1,2,10,57];
+
+double(someNumbers); // should return [2,4,20,114]
+
+Ben and I first went to code wars to see what we had to do. We went to the whiteboard and put down that we had to use .map to double the numbers in an array. Then we went to put in our solution.
+
+Code Wars pt2
+
+https://www.codewars.com/kata/list-filtering/train/javascript
+
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+
+Example
+filter_list([1,2,'a','b']) == [1,2]
+filter_list([1,'a','b',0,15]) == [1,0,15]
+filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
+
+Ben and I went to see the problem for this kata. We then went to the whiteboard to figure out our solution. We figured that we needed to filter out the strings from the array. Then we went back and put in our solution.
+
+Code Wars pt 3
+
+https://www.codewars.com/kata/calculate-average/train/javascript
+
+Write function avg which calculates average of numbers in given list.
+
+Ben and I went to code wars to see the problem and then went to whiteboard our solution. We figured out that we needed to reduce the numbers in the array by adding them together and then divide them. 
