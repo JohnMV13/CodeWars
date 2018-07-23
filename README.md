@@ -174,3 +174,13 @@ https://www.codewars.com/kata/calculate-average/train/javascript
 Write function avg which calculates average of numbers in given list.
 
 Ben and I went to code wars to see the problem and then went to whiteboard our solution. We figured out that we needed to reduce the numbers in the array by adding them together and then divide them. 
+
+Code Wars Day 11
+
+https://www.codewars.com/kata/sum-of-odd-cubed-numbers/train/javascript
+
+Find the sum of the odd numbers within an array, after cubing the initial integers. This function will return undefined (NULL in PHP) if any of the values aren't numbers.
+
+Note: There are ONLY integers in the JAVA and C# versions of this Kata.
+
+Nathan and I first went to code wars to see the problem for today and then we went to whiteboard the solution. We saw that we needed to start by cubing the array and filtering the array at the same time. After that, we needed to reduce the array and add together the integers in the array. Then we went to code wars to put in our solution.
