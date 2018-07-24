@@ -184,3 +184,19 @@ Find the sum of the odd numbers within an array, after cubing the initial intege
 Note: There are ONLY integers in the JAVA and C# versions of this Kata.
 
 Nathan and I first went to code wars to see the problem for today and then we went to whiteboard the solution. We saw that we needed to start by cubing the array and filtering the array at the same time. After that, we needed to reduce the array and add together the integers in the array. Then we went to code wars to put in our solution.
+
+Code Wars Day 12
+
+https://www.codewars.com/kata/highest-scoring-word/train/javascript
+
+Given a string of words, you need to find the highest scoring word.
+
+Each letter of a word scores points according to it's position in the alphabet: a = 1, b = 2, c = 3 etc.
+
+You need to return the highest scoring word as a string.
+
+If two words score the same, return the word that appears earliest in the original string.
+
+All letters will be lowercase and all inputs will be valid.
+
+Nathan and I started off by going to code wars to see the problem for the day then we went to whiteboard the solution. We figured that we needed to make an array of strings, cut those strings into an array of letters, give them their point values, put them back into the array of strings and then find the high scoring word from each array. After figuring that out, we went back to code wars to put in our solution.
