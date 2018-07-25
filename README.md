@@ -200,3 +200,24 @@ If two words score the same, return the word that appears earliest in the origin
 All letters will be lowercase and all inputs will be valid.
 
 Nathan and I started off by going to code wars to see the problem for the day then we went to whiteboard the solution. We figured that we needed to make an array of strings, cut those strings into an array of letters, give them their point values, put them back into the array of strings and then find the high scoring word from each array. After figuring that out, we went back to code wars to put in our solution.
+
+Code Wars Day 13
+
+https://www.codewars.com/kata/mutate-my-strings/train/javascript
+
+I will give you two strings. I want you to transform stringOne into stringTwo one letter at a time.
+
+Example:
+
+stringOne = 'bubble gum';
+stringTwo = 'turtle ham';
+
+Result:
+bubble gum
+tubble gum
+turble gum
+turtle gum
+turtle hum
+turtle ham
+
+Nathan and I started by going to code wars to se the problem the went to whiteboard our solution. We saw that we needed to have the strings reaplce each letter one at a time. We decided to split the first string into an array of strings, replace each letter if it didn't match the second string, then join the array of strings together. After figuring that, we went back to code wars and put in our solution.
