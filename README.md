@@ -221,3 +221,25 @@ turtle hum
 turtle ham
 
 Nathan and I started by going to code wars to se the problem the went to whiteboard our solution. We saw that we needed to have the strings reaplce each letter one at a time. We decided to split the first string into an array of strings, replace each letter if it didn't match the second string, then join the array of strings together. After figuring that, we went back to code wars and put in our solution.
+
+Code Wars Day 14
+
+https://www.codewars.com/kata/indexed-capitalization/train/javascript
+
+Given a string and an array of integers representing indices, capitalize all letters at the given indices.
+
+For example:
+
+capitalize("abcdef",[1,2,5]) = "aBCdeF"
+capitalize("abcdef",[1,2,5,100]) = "aBCdeF". There is no index 100.
+The input will be a lowercase string with no spaces and an array of digits.
+
+Good luck!
+
+Be sure to also try:
+
+Alternate capitalization
+
+String array revisal
+
+First Nathan and I went to codewars to see the problem then went to the whiteboard to come up with a solution. We figured that we needed to turn the string into an array of strings, put it against the array of numbers and any letter that matched up with the array number needed to be capitolized. After getting that solution figured out, we went back to code wars to put in our answer.
